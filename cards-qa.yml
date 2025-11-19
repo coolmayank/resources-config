@@ -2,7 +2,7 @@ build:
   version: "3.2"
 
 cards:
-  message: "Welcome to EazyBank cards related [QA] API. "
+  message: "Welcome to EazyBank cards related qa [QA] API. "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
